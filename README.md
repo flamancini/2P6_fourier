@@ -50,7 +50,7 @@ This notebook will help you understand the Fourier Transform from a linear algeb
 
 📬 Contact
 
-For any queries regarding this notebook or the 2P6 course, reach out to Flavia Mancini via the University of Cambridge Department of Engineering.
+For any queries regarding this notebook or the 2P6 course, reach out to Flavia Mancini.
 
 📧 Email: [flavia.mancini@eng.cam.ac.uk]
 
