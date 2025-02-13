@@ -24,10 +24,10 @@ cd 2P6_fourier
 
 3️⃣ Run the Notebook
 
-Launch Jupyter Notebook and open the file:
+Launch Jupyter Notebook and open the files:
 
-jupyter notebook notebooks/2P6_Signal_Processing.ipynb
-
+jupyter notebook notebooks/FFT_demo.ipynb
+jupyter notebook notebooks/Fourier_Transform_Linear_Algebra.ipynb
 
 🛠 **Features & Implementations**
 
