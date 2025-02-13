@@ -1,4 +1,4 @@
-2P6: Signal Processing and Data Analysis
+**2P6: Signal Processing and Data Analysis**
 University of Cambridge, Department of Engineering
 
 Lecturer: Flavia Mancini
