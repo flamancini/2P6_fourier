@@ -33,7 +33,7 @@ README.md – This file, providing an overview of the project.
 
 To get started, clone this repository to your local machine:
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/2P6_fourier.git
+git clone https://github.com/flamancini/2P6_fourier.git
 cd 2P6_fourier
 
 2️⃣ Set Up the Python Environment
