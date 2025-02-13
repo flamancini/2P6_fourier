@@ -15,19 +15,19 @@ This repository contains a Jupyter Notebook designed for students enrolled in th
 
 To get started, clone this repository to your local machine:
 
-git clone https://github.com/flamancini/2P6_fourier.git
-cd 2P6_fourier
+'git clone https://github.com/flamancini/2P6_fourier.git
+cd 2P6_fourier'
 
 2️⃣ We are using Jupyter Notebooks, please install dependencies inside the notebook:
 
-!pip install numpy scipy matplotlib sounddevice
+'!pip install numpy scipy matplotlib sounddevice'
 
 3️⃣ Run the Notebook
 
 Launch Jupyter Notebook and open the files:
 
-jupyter notebook notebooks/FFT_demo.ipynb
-jupyter notebook notebooks/Fourier_Transform_Linear_Algebra.ipynb
+'jupyter notebook notebooks/FFT_demo.ipynb'
+'jupyter notebook notebooks/Fourier_Transform_Linear_Algebra.ipynb'
 
 🛠 **Features & Implementations**
 
