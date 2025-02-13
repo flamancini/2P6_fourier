@@ -4,12 +4,12 @@ University of Cambridge, Department of Engineering
 
 Lecturer: Flavia Mancini
 
-📌 About This Repository
+📌 **About This Repository**
 
-This repository contains a Jupyter Notebook designed for students enrolled in the 2P6: Signal Processing and Data Analysis course at the University of Cambridge. The notebook provides an interactive learning environment to explore key signal processing concepts through practical Python implementations.
+This repository contains a Jupyter Notebook designed for students enrolled in the 2P6: Signal Processing and Data Analysis course at the University of Cambridge, CUED. The notebook provides an interactive learning environment to explore key signal processing concepts through practical Python implementations.
 
 
-🚀 Getting Started
+🚀 **Getting Started**
 
 1️⃣ Clone the Repository
 
@@ -29,9 +29,9 @@ Launch Jupyter Notebook and open the file:
 jupyter notebook notebooks/2P6_Signal_Processing.ipynb
 
 
-🛠 Features & Implementations
+🛠 **Features & Implementations**
 
-📌 FFT_demo.ipynb
+📌 **FFT_demo.ipynb**
 This notebook will help you:
 Generate and analyze signals (chirp, sine wave, aliased chirp, and music signals).
 Understand the Fourier Transform and its applications.
@@ -39,7 +39,7 @@ Visualize signals in the time domain and frequency domain.
 Compute and interpret spectrograms for time-varying frequency content.
 Save and play signals as WAV audio files.
 
-📌 Fourier_Transform_Linear_Algebra.ipynb
+📌 **Fourier_Transform_Linear_Algebra.ipynb**
 This notebook will help you understand the Fourier Transform from a linear algebra perspective, including concepts like basis transformations, eigenvalues, and matrix operations. It demonstrates the DFT as a matrix transformation and compares it with the FFT, providing an intuitive and computational approach to signal processing. 🚀
 
 
