@@ -36,6 +36,27 @@ jupyter notebook notebooks/Fourier_Transform_Linear_Algebra.ipynb
 
 🛠 **Features & Implementations**
 
+📌 **handouts_3_4_integral_demos.ipynb** — Fourier Transform via Integrals (No FFT)
+This notebook accompanies **Handouts 3 and 4** of the course and is designed to
+build *conceptual understanding* of the continuous-time Fourier Transform.
+We deliberately **avoid FFTs and DFTs**.  
+All spectra are computed by **numerical quadrature** (Riemann / trapezoidal
+approximations of the Fourier integral)
+\[
+F(\omega)=\int_{-\infty}^{\infty} f(t)\,e^{-j\omega t}\,dt.
+\]
+The goal is to focus on *what the Fourier Transform means*, rather than how it is
+implemented efficiently on a computer. This notebook supports the theory lectures by making the Fourier Transform feel
+like “an integral that adds rotating phasors.” Once this intuition is secure, FFT-based methods are much easier to understand
+and trust.
+
+📚 Recommended use:
+• Read alongside **Handouts 3 and 4**  
+• Run cells slowly and inspect intermediate plots  
+• Answer the inline questions before moving on  
+
+🔍 This notebook demonstrates: Continuous spectra, Time–frequency trade-offs, Time shift, Frequency shift / modulation, Convolution theorem (time ↔ frequency), Duality
+
 📌 **FFT_demo.ipynb**
 This notebook will help you:
 Generate and analyze signals (chirp, sine wave, aliased chirp, and music signals).
