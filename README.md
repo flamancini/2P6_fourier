@@ -36,7 +36,7 @@ jupyter notebook notebooks/Fourier_Transform_Linear_Algebra.ipynb
 
 🛠 **Features & Implementations**
 
-📌 **handouts_3_4_integral_demos.ipynb** — Fourier Transform via Integrals (No FFT)
+📌 **handouts3_4_demo.ipynb** — Fourier Transform via Integrals (No FFT)
 This notebook accompanies **Handouts 3 and 4** of the course and is designed to
 build *conceptual understanding* of the continuous-time Fourier Transform.
 We deliberately **avoid FFTs and DFTs**.  
